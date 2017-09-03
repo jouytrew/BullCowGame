@@ -20,7 +20,7 @@ enum class EGuessStatus
 	NOT_LOWERCASE,
 	INVALID
 };
-
+ 
 class FBullCowGame 
 {
 public:
